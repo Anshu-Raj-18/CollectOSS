@@ -6,4 +6,5 @@ This is a section for pages that dive into high-level architecture details (most
 .. toctree::
    :maxdepth: 1
 
+   collection
    login
