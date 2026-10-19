@@ -10,13 +10,13 @@ CollectOSS Documentation
    getting-started/Welcome
    quick-start
    about/toc
+   architecture/toc
    deployment/toc
    getting-started/toc
    development-guide/toc
    rest-api/api
    docker/toc
    schema/toc
-   login
    procedures/toc
 .. 
 
